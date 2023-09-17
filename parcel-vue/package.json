@@ -1,0 +1,17 @@
+{
+  "name": "parcel-vue",
+  "version": "1.0.0",
+  "source": "./index.html",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-vue": "2.9.3",
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  }
+}
